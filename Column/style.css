@@ -1,0 +1,10 @@
+.columns .row {
+    min-height: 10rem;
+    background-color: rgba(255,0,0,0.1);
+}
+
+.horizontal .row,
+.column-wrapping .row,
+.offsetting .row {
+    background-color: rgba(255,0,0,0.1);
+}
